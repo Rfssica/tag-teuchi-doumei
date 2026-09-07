@@ -1,0 +1,21 @@
+
+/*===標準===*/
+body{background:#ddd;}
+img{border:0px;}
+
+.red{color:#d00;}
+
+/*=====ボーダーテーブル=====*/
+table.board{background:#666}
+table.board th{background:#999}
+table.board td{background:#ddd}
+table.board td.white{background:#fff}
+table.board td.black{background:#000}
+
+/*=====リンクについて=====*/
+a{color:#009}
+a:link{color:#00f}
+a:visited{color:#009}
+a:hover{color:#d00}
+a:active{color:#909}
+a:link,a:visited,a:active,a:hover{text-decoration:underline; !important}
